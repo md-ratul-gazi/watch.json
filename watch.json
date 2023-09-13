@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "brand": "Apple"
+  },
+  {
+    "ID": 2,
+    "name": "Samsung Galaxy Watch 4",
+    "price": 299.99,
+    "brand": "Samsung"
+  },
+  {
+    "ID": 3,
+    "name": "Samsung Galaxy Watch 3",
+    "price": 229.95,
+    "brand": "Fitbit"
+  },
+  {
+    "ID": 4,
+    "name": "Garmin Forerunner 9450",
+    "price": 599.99,
+    "brand": "Garmin"
+  },
+  {
+    "ID": 5,
+    "name": "Fossil Gen 3",
+    "price": 249.0,
+    "brand": "Fossil"
+  }
+]
